@@ -1,2 +1,2 @@
-# ExPython
+# ExercíciosPython
 Atividades do curso de Python básico ao intermediário
