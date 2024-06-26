@@ -1,0 +1,6 @@
+frase = str(input('Digite uma frase: ')).upper().strip()
+print('Na frase a letra E aparece {} vezes.'.format(frase.count('E')))
+print('Na frase a primeira letra E aparece na posição {}'.format(frase.find('E')))
+print('A última letra apareceu na posição {}'.format(frase.rfind('E')))
+print(frase.upper())
+print(frase.lower())
